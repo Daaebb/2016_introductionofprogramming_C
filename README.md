@@ -1,1 +1,1 @@
-# 2016_introductionofprogramming_C
+# 2016_프로그래밍개론_C
